@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|d:\\gg programist\\all_project_c#\\knowledgetesttask\\knowledgetesttask\\viewmodel\\createtestpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|solutionrelative:knowledgetesttask\\viewmodel\\createtestpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|d:\\gg programist\\all_project_c#\\knowledgetesttask\\knowledgetesttask\\viewmodel\\resultpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|solutionrelative:knowledgetesttask\\viewmodel\\resultpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|d:\\gg programist\\all_project_c#\\knowledgetesttask\\knowledgetesttask\\view\\pages\\resultpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|solutionrelative:knowledgetesttask\\view\\pages\\resultpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|d:\\gg programist\\all_project_c#\\knowledgetesttask\\knowledgetesttask\\view\\pages\\resultpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|solutionrelative:knowledgetesttask\\view\\pages\\resultpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|d:\\gg programist\\all_project_c#\\knowledgetesttask\\knowledgetesttask\\viewmodel\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,52 +23,60 @@
       "RelativeMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|solutionrelative:knowledgetesttask\\viewmodel\\passtestpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|d:\\gg programist\\all_project_c#\\knowledgetesttask\\knowledgetesttask\\view\\pages\\createtestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|solutionrelative:knowledgetesttask\\view\\pages\\createtestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|d:\\gg programist\\all_project_c#\\knowledgetesttask\\knowledgetesttask\\core\\singleton\\testsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|solutionrelative:knowledgetesttask\\core\\singleton\\testsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|d:\\gg programist\\all_project_c#\\knowledgetesttask\\knowledgetesttask\\core\\framemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|solutionrelative:knowledgetesttask\\core\\framemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|d:\\gg programist\\all_project_c#\\knowledgetesttask\\knowledgetesttask\\viewmodel\\createtestpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|solutionrelative:knowledgetesttask\\viewmodel\\createtestpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|d:\\gg programist\\all_project_c#\\knowledgetesttask\\knowledgetesttask\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|solutionrelative:knowledgetesttask\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|d:\\gg programist\\all_project_c#\\knowledgetesttask\\knowledgetesttask\\model\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|solutionrelative:knowledgetesttask\\model\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|d:\\gg programist\\all_project_c#\\knowledgetesttask\\knowledgetesttask\\command\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|solutionrelative:knowledgetesttask\\command\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|d:\\gg programist\\all_project_c#\\knowledgetesttask\\knowledgetesttask\\view\\pages\\passtestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|solutionrelative:knowledgetesttask\\view\\pages\\passtestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|d:\\gg programist\\all_project_c#\\knowledgetesttask\\knowledgetesttask\\view\\pages\\passtestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|solutionrelative:knowledgetesttask\\view\\pages\\passtestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|d:\\gg programist\\all_project_c#\\knowledgetesttask\\knowledgetesttask\\view\\pages\\createtestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|solutionrelative:knowledgetesttask\\view\\pages\\createtestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|d:\\gg programist\\all_project_c#\\knowledgetesttask\\knowledgetesttask\\view\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|solutionrelative:knowledgetesttask\\view\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|d:\\gg programist\\all_project_c#\\knowledgetesttask\\knowledgetesttask\\view\\pages\\createtestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|solutionrelative:knowledgetesttask\\view\\pages\\createtestpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|d:\\gg programist\\all_project_c#\\knowledgetesttask\\knowledgetesttask\\view\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|solutionrelative:knowledgetesttask\\view\\windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|d:\\gg programist\\all_project_c#\\knowledgetesttask\\knowledgetesttask\\model\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|solutionrelative:knowledgetesttask\\model\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|d:\\gg programist\\all_project_c#\\knowledgetesttask\\knowledgetesttask\\view\\pages\\passtestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|solutionrelative:knowledgetesttask\\view\\pages\\passtestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|d:\\gg programist\\all_project_c#\\knowledgetesttask\\knowledgetesttask\\view\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|solutionrelative:knowledgetesttask\\view\\windows\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|d:\\gg programist\\all_project_c#\\knowledgetesttask\\knowledgetesttask\\view\\pages\\createtestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|solutionrelative:knowledgetesttask\\view\\pages\\createtestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|d:\\gg programist\\all_project_c#\\knowledgetesttask\\knowledgetesttask\\core\\singleton\\testsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|solutionrelative:knowledgetesttask\\core\\singleton\\testsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|d:\\gg programist\\all_project_c#\\knowledgetesttask\\knowledgetesttask\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|solutionrelative:knowledgetesttask\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|d:\\gg programist\\all_project_c#\\knowledgetesttask\\knowledgetesttask\\command\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|solutionrelative:knowledgetesttask\\command\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|d:\\gg programist\\all_project_c#\\knowledgetesttask\\knowledgetesttask\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|solutionrelative:knowledgetesttask\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|d:\\gg programist\\all_project_c#\\knowledgetesttask\\knowledgetesttask\\core\\framemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63C8206-6964-4677-B323-C4D6EA52D0E1}|KnowledgeTestTask\\KnowledgeTestTask.csproj|solutionrelative:knowledgetesttask\\core\\framemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,26 +94,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CreateTestPage.xaml.cs",
-              "DocumentMoniker": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\View\\Pages\\CreateTestPage.xaml.cs",
-              "RelativeDocumentMoniker": "KnowledgeTestTask\\View\\Pages\\CreateTestPage.xaml.cs",
-              "ToolTip": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\View\\Pages\\CreateTestPage.xaml.cs",
-              "RelativeToolTip": "KnowledgeTestTask\\View\\Pages\\CreateTestPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "CreateTestPageViewModel.cs",
+              "DocumentMoniker": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\ViewModel\\CreateTestPageViewModel.cs",
+              "RelativeDocumentMoniker": "KnowledgeTestTask\\ViewModel\\CreateTestPageViewModel.cs",
+              "ToolTip": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\ViewModel\\CreateTestPageViewModel.cs",
+              "RelativeToolTip": "KnowledgeTestTask\\ViewModel\\CreateTestPageViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T18:53:49.592Z",
+              "WhenOpened": "2025-05-20T19:16:37.225Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PassTestPageViewModel.cs",
               "DocumentMoniker": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\ViewModel\\PassTestPageViewModel.cs",
               "RelativeDocumentMoniker": "KnowledgeTestTask\\ViewModel\\PassTestPageViewModel.cs",
               "ToolTip": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\ViewModel\\PassTestPageViewModel.cs",
               "RelativeToolTip": "KnowledgeTestTask\\ViewModel\\PassTestPageViewModel.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAIwHsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T19:16:49.817Z",
               "EditorCaption": ""
@@ -105,53 +121,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CreateTestPageViewModel.cs",
-              "DocumentMoniker": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\ViewModel\\CreateTestPageViewModel.cs",
-              "RelativeDocumentMoniker": "KnowledgeTestTask\\ViewModel\\CreateTestPageViewModel.cs",
-              "ToolTip": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\ViewModel\\CreateTestPageViewModel.cs",
-              "RelativeToolTip": "KnowledgeTestTask\\ViewModel\\CreateTestPageViewModel.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwEgAAAAhAAAAAAAAAA==",
+              "Title": "ResultPageViewModel.cs",
+              "DocumentMoniker": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\ViewModel\\ResultPageViewModel.cs",
+              "RelativeDocumentMoniker": "KnowledgeTestTask\\ViewModel\\ResultPageViewModel.cs",
+              "ToolTip": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\ViewModel\\ResultPageViewModel.cs",
+              "RelativeToolTip": "KnowledgeTestTask\\ViewModel\\ResultPageViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T19:16:37.225Z",
+              "WhenOpened": "2025-05-21T22:46:12.96Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FrameManager.cs",
-              "DocumentMoniker": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\Core\\FrameManager.cs",
-              "RelativeDocumentMoniker": "KnowledgeTestTask\\Core\\FrameManager.cs",
-              "ToolTip": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\Core\\FrameManager.cs",
-              "RelativeToolTip": "KnowledgeTestTask\\Core\\FrameManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ResultPage.xaml.cs",
+              "DocumentMoniker": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\View\\Pages\\ResultPage.xaml.cs",
+              "RelativeDocumentMoniker": "KnowledgeTestTask\\View\\Pages\\ResultPage.xaml.cs",
+              "ToolTip": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\View\\Pages\\ResultPage.xaml.cs",
+              "RelativeToolTip": "KnowledgeTestTask\\View\\Pages\\ResultPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T18:47:27.311Z",
+              "WhenOpened": "2025-05-21T22:46:25.767Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TestSingleton.cs",
-              "DocumentMoniker": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\Core\\Singleton\\TestSingleton.cs",
-              "RelativeDocumentMoniker": "KnowledgeTestTask\\Core\\Singleton\\TestSingleton.cs",
-              "ToolTip": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\Core\\Singleton\\TestSingleton.cs",
-              "RelativeToolTip": "KnowledgeTestTask\\Core\\Singleton\\TestSingleton.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "DelegateCommand.cs",
+              "DocumentMoniker": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\Command\\DelegateCommand.cs",
+              "RelativeDocumentMoniker": "KnowledgeTestTask\\Command\\DelegateCommand.cs",
+              "ToolTip": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\Command\\DelegateCommand.cs",
+              "RelativeToolTip": "KnowledgeTestTask\\Command\\DelegateCommand.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA9wCYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T18:39:34.126Z",
+              "WhenOpened": "2025-05-20T18:28:41.195Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindowViewModel.cs",
-              "DocumentMoniker": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\ViewModel\\MainWindowViewModel.cs",
-              "RelativeDocumentMoniker": "KnowledgeTestTask\\ViewModel\\MainWindowViewModel.cs",
-              "ToolTip": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\ViewModel\\MainWindowViewModel.cs",
-              "RelativeToolTip": "KnowledgeTestTask\\ViewModel\\MainWindowViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA3AAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "Question.cs",
+              "DocumentMoniker": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\Model\\Question.cs",
+              "RelativeDocumentMoniker": "KnowledgeTestTask\\Model\\Question.cs",
+              "ToolTip": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\Model\\Question.cs",
+              "RelativeToolTip": "KnowledgeTestTask\\Model\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T18:39:05.82Z",
+              "WhenOpened": "2025-05-20T18:30:12.596Z",
               "EditorCaption": ""
             },
             {
@@ -168,27 +184,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateTestPage.xaml",
-              "DocumentMoniker": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\View\\Pages\\CreateTestPage.xaml",
-              "RelativeDocumentMoniker": "KnowledgeTestTask\\View\\Pages\\CreateTestPage.xaml",
-              "ToolTip": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\View\\Pages\\CreateTestPage.xaml",
-              "RelativeToolTip": "KnowledgeTestTask\\View\\Pages\\CreateTestPage.xaml",
+              "DocumentIndex": 1,
+              "Title": "ResultPage.xaml",
+              "DocumentMoniker": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\View\\Pages\\ResultPage.xaml",
+              "RelativeDocumentMoniker": "KnowledgeTestTask\\View\\Pages\\ResultPage.xaml",
+              "ToolTip": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\View\\Pages\\ResultPage.xaml",
+              "RelativeToolTip": "KnowledgeTestTask\\View\\Pages\\ResultPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-20T18:37:59.631Z",
+              "WhenOpened": "2025-05-21T22:45:59.142Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Question.cs",
-              "DocumentMoniker": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\Model\\Question.cs",
-              "RelativeDocumentMoniker": "KnowledgeTestTask\\Model\\Question.cs",
-              "ToolTip": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\Model\\Question.cs",
-              "RelativeToolTip": "KnowledgeTestTask\\Model\\Question.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\View\\Windows\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KnowledgeTestTask\\View\\Windows\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\View\\Windows\\MainWindow.xaml.cs",
+              "RelativeToolTip": "KnowledgeTestTask\\View\\Windows\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T18:30:12.596Z",
+              "WhenOpened": "2025-05-20T18:25:55.867Z",
               "EditorCaption": ""
             },
             {
@@ -206,32 +222,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\View\\Windows\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "KnowledgeTestTask\\View\\Windows\\MainWindow.xaml",
-              "ToolTip": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\View\\Windows\\MainWindow.xaml",
-              "RelativeToolTip": "KnowledgeTestTask\\View\\Windows\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-20T18:25:59.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\View\\Windows\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "KnowledgeTestTask\\View\\Windows\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\View\\Windows\\MainWindow.xaml.cs",
-              "RelativeToolTip": "KnowledgeTestTask\\View\\Windows\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBkAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "KnowledgeTestTask\\ViewModel\\MainWindowViewModel.cs",
+              "ToolTip": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\ViewModel\\MainWindowViewModel.cs",
+              "RelativeToolTip": "KnowledgeTestTask\\ViewModel\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T18:25:55.867Z",
+              "WhenOpened": "2025-05-20T18:39:05.82Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "PassTestPage.xaml.cs",
               "DocumentMoniker": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\View\\Pages\\PassTestPage.xaml.cs",
               "RelativeDocumentMoniker": "KnowledgeTestTask\\View\\Pages\\PassTestPage.xaml.cs",
@@ -244,20 +248,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DelegateCommand.cs",
-              "DocumentMoniker": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\Command\\DelegateCommand.cs",
-              "RelativeDocumentMoniker": "KnowledgeTestTask\\Command\\DelegateCommand.cs",
-              "ToolTip": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\Command\\DelegateCommand.cs",
-              "RelativeToolTip": "KnowledgeTestTask\\Command\\DelegateCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T18:28:41.195Z",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\View\\Windows\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "KnowledgeTestTask\\View\\Windows\\MainWindow.xaml",
+              "ToolTip": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\View\\Windows\\MainWindow.xaml",
+              "RelativeToolTip": "KnowledgeTestTask\\View\\Windows\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T18:25:59.744Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 9,
+              "Title": "CreateTestPage.xaml",
+              "DocumentMoniker": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\View\\Pages\\CreateTestPage.xaml",
+              "RelativeDocumentMoniker": "KnowledgeTestTask\\View\\Pages\\CreateTestPage.xaml",
+              "ToolTip": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\View\\Pages\\CreateTestPage.xaml",
+              "RelativeToolTip": "KnowledgeTestTask\\View\\Pages\\CreateTestPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-20T18:37:59.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateTestPage.xaml.cs",
+              "DocumentMoniker": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\View\\Pages\\CreateTestPage.xaml.cs",
+              "RelativeDocumentMoniker": "KnowledgeTestTask\\View\\Pages\\CreateTestPage.xaml.cs",
+              "ToolTip": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\View\\Pages\\CreateTestPage.xaml.cs",
+              "RelativeToolTip": "KnowledgeTestTask\\View\\Pages\\CreateTestPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:53:49.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\App.xaml",
               "RelativeDocumentMoniker": "KnowledgeTestTask\\App.xaml",
@@ -266,6 +294,42 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-05-20T18:59:00.197Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\App.xaml.cs",
+              "RelativeDocumentMoniker": "KnowledgeTestTask\\App.xaml.cs",
+              "ToolTip": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\App.xaml.cs",
+              "RelativeToolTip": "KnowledgeTestTask\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T06:25:10.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TestSingleton.cs",
+              "DocumentMoniker": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\Core\\Singleton\\TestSingleton.cs",
+              "RelativeDocumentMoniker": "KnowledgeTestTask\\Core\\Singleton\\TestSingleton.cs",
+              "ToolTip": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\Core\\Singleton\\TestSingleton.cs",
+              "RelativeToolTip": "KnowledgeTestTask\\Core\\Singleton\\TestSingleton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:39:34.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrameManager.cs",
+              "DocumentMoniker": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\Core\\FrameManager.cs",
+              "RelativeDocumentMoniker": "KnowledgeTestTask\\Core\\FrameManager.cs",
+              "ToolTip": "D:\\GG PROGRAMIST\\All_project_c#\\KnowledgeTestTask\\KnowledgeTestTask\\Core\\FrameManager.cs",
+              "RelativeToolTip": "KnowledgeTestTask\\Core\\FrameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T18:47:27.311Z"
             }
           ]
         }

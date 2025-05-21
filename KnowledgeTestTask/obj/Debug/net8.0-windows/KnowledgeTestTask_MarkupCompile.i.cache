@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 D:\GG PROGRAMIST\All_project_c#\KnowledgeTestTask\KnowledgeTestTask\App.xaml
-31038302410
+4-442102118
 
-16-1645157501
+18-2078485771
 19933171182
-View\Pages\CreateTestPage.xaml;View\Pages\PassTestPage.xaml;View\Windows\MainWindow.xaml;
+View\Pages\CreateTestPage.xaml;View\Pages\PassTestPage.xaml;View\Pages\ResultPage.xaml;View\Windows\MainWindow.xaml;
 
 False
 

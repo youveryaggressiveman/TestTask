@@ -13,5 +13,8 @@ namespace KnowledgeTestTask.Model
         public string Meaning { get; set; }
         public ObservableCollection<string> Variables { get; set; } = new();
         public string RightAnswer { get; set; }
+        public string LastAnswer { get; set; }
+        public bool IsOk { get; set; }
+
     }
 }

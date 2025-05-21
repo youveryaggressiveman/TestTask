@@ -1,0 +1,49 @@
+﻿<Page x:Class="KnowledgeTestTask.View.Pages.ResultPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:KnowledgeTestTask.View.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="250" d:DesignWidth="450"
+      Title="ResultPage">
+    <ScrollViewer HorizontalScrollBarVisibility="Disabled"
+                  VerticalScrollBarVisibility="Auto">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100" />
+                <RowDefinition />
+            </Grid.RowDefinitions>
+            <TextBlock Text="РЕЗУЛЬТАТЫ"
+                       FontSize="28"
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center" />
+            <Grid Grid.Row="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition />
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+                <TextBlock VerticalAlignment="Center"
+                           FontSize="18"
+                           Margin="25 0"
+                           HorizontalAlignment="Left">
+<Run Text="Количество правильных ответов" />
+<Run Text="{Binding OkCount}"
+                    FontWeight="Bold" />
+                <Run Text="из" />
+<Run Text="{Binding Count}"
+                    FontWeight="Bold" /></TextBlock>
+                <TextBlock VerticalAlignment="Center"
+                           Grid.Row="1"
+                           FontSize="18"
+                           Margin="25 0"
+                           HorizontalAlignment="Left">
+<Run Text="Итоговая оценка:" />
+<Run Text="{Binding Result}"
+                    FontWeight="Bold" />
+                </TextBlock>
+            </Grid>
+            
+        </Grid>
+    </ScrollViewer>
+</Page>

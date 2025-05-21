@@ -44,6 +44,8 @@ namespace KnowledgeTestTask.ViewModel
 
         public CreateTestPageViewModel()
         {
+            TestSingleton.S_Question = new();
+
             Variable = string.Empty;
             Question = new();
 

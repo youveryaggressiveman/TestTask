@@ -26,3 +26,6 @@ D:\GG PROGRAMIST\All_project_c#\KnowledgeTestTask\KnowledgeTestTask\bin\Debug\ne
 D:\GG PROGRAMIST\All_project_c#\KnowledgeTestTask\KnowledgeTestTask\obj\Debug\net8.0-windows\KnowledgeTestTask.csproj.AssemblyReference.cache
 D:\GG PROGRAMIST\All_project_c#\KnowledgeTestTask\KnowledgeTestTask\obj\Debug\net8.0-windows\App.baml
 D:\GG PROGRAMIST\All_project_c#\KnowledgeTestTask\KnowledgeTestTask\obj\Debug\net8.0-windows\Knowledg.BF19D402.Up2Date
+D:\GG PROGRAMIST\All_project_c#\KnowledgeTestTask\KnowledgeTestTask\obj\Debug\net8.0-windows\KnowledgeTestTask.sourcelink.json
+D:\GG PROGRAMIST\All_project_c#\KnowledgeTestTask\KnowledgeTestTask\obj\Debug\net8.0-windows\View\Pages\ResultPage.g.cs
+D:\GG PROGRAMIST\All_project_c#\KnowledgeTestTask\KnowledgeTestTask\obj\Debug\net8.0-windows\View\Pages\ResultPage.baml
