@@ -53,14 +53,15 @@ namespace KnowledgeTestTask.ViewModel
             Count = questions.Count;
             OkCount = questions.Where(quest => quest.IsOk == true).Count();
 
-            var percent = (OkCount / Count) * 100;
+            var percent = Math.Round(((double)OkCount / (double)Count) * 100, 1);
 
             Result = percent switch
             {
                 <= 50 => "неудовлетворительно",
                 > 50 and <= 65 => "удовлетворительно",
                 > 65 and <= 80 => "хорошо",
-                > 80 => "отлично"
+                > 80 => "отлично",
+                _ => "неизвестно"
             };
         }
     }

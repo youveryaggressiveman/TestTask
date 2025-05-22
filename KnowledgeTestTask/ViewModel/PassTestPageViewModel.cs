@@ -61,7 +61,7 @@ namespace KnowledgeTestTask.ViewModel
 
             TestSingleton.S_Question.OrderBy(quest => quest.Number)
                 .ToList()
-                .ForEach(ActualListOfQuest.Add);
+                .ForEach(quest => ActualListOfQuest.Add((Question)quest.Clone()));
 
             ActualQuest = ActualListOfQuest[0];
 
